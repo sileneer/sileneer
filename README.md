@@ -63,16 +63,16 @@ Welcome to my GitHub profile! I'm a 2nd year engineering undergraduate student a
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 September 2023 - To: 02 March 2026
+From: 30 September 2023 - To: 03 March 2026
 
-Total Time: 246 hrs 35 mins
+Total Time: 246 hrs 39 mins
 
-TypeScript         68 hrs 19 mins        >>>>>>>------------------   26.93 %
+TypeScript         68 hrs 19 mins        >>>>>>>------------------   26.92 %
 Java               53 hrs 59 mins        >>>>>--------------------   21.28 %
 Python             29 hrs 43 mins        >>>----------------------   11.72 %
 HTML               26 hrs 7 mins         >>>----------------------   10.30 %
-JavaScript         17 hrs                >>-----------------------   06.71 %
-Dart               14 hrs 57 mins        >------------------------   05.90 %
+JavaScript         17 hrs                >>-----------------------   06.70 %
+Dart               14 hrs 57 mins        >------------------------   05.89 %
 Other              7 hrs 4 mins          >------------------------   02.79 %
 ```
 
