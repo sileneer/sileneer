@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a 2nd year engineering undergraduate student a
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 September 2023 - To: 08 March 2026
+From: 30 September 2023 - To: 09 March 2026
 
 Total Time: 248 hrs 42 mins
 
